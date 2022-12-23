@@ -1,7 +1,7 @@
 <div class="container">
   <div class="ejercicio">
     <h4 class="titulo">FRAMEWORK ANGULAR</h4>
-    <input [(ngModel)]="valorIngresado" type="text">
+    <input [(ngModel)]="valorIngresado" type="text" (keyup.enter)="agregar()">
     <button class="boton" (click)="agregar()">Add</button>
     <ul>
         <li *ngFor="let valor of array">{{ valor }}</li>
