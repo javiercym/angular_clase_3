@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+.ejercicio{
+    margin-top: 100px;
+}
+.titulo{
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+}
+.boton{
+    background-color: #ff7f50;
+    color: #ffffff;
+    border: 0px;
+    padding: 20px;
+    border-radius: 50px;
+    margin-left: -10px;
+}

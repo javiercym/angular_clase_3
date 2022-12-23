@@ -1,0 +1,12 @@
+.centrar{
+    margin-top: 50px;
+    text-align: center;
+}
+.titulo{
+    font-size: 70px;
+    color: rgb(99, 96, 96);
+}
+.descripcion{
+    font-size: 20px;
+    color: rgb(99, 96, 96);
+}

@@ -1,0 +1,29 @@
+.centrar{
+    margin-top: 50px;
+    color: black;
+    text-align: center;
+}
+.mes{
+    border: 2px solid rgb(237, 237, 235);
+    width: 300px;
+    margin: auto;
+}
+.titulo{
+    background-color: rgb(237, 237, 235);
+    height: 50px;
+    font-size: 30px;
+}
+.sol{
+    font-weight: bold;
+}
+.pago{
+    font-size: 25px;
+    margin: 10px 0px;
+}
+.boton{
+    padding: 0px 10px;
+    margin: 20px 0px 40px;
+}
+button{
+    width: 100%;
+}
